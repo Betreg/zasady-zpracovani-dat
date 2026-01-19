@@ -5,9 +5,9 @@
 - Žádné další osobní údaje o Vás Betreg jako o zákazníkovi nedrží, ani nesbírá.
 - Veškeré osobní údaje jsou nezbytné pro chod služby, žádné dodatečné info není potřebné (proto je ani nesbíráme 😉).
 - Vaše osobní údaje nejsou sdíleny s žádnou třetí osobou.
-- Vaše osobní údaje jsou drženy po dobu, kterou se rozhodnete zůstat u Betreg registrovaní, v případě žádosti o smazání účtu, budou veškerá vaše osobní údaje co nejdříve smazány (více v [sekci o smazání dat](#pravobytzapomenut))
+- Vaše osobní údaje jsou drženy po dobu, kterou se rozhodnete zůstat u Betreg registrovaní, v případě žádosti o smazání účtu, budou veškerá vaše osobní údaje co nejdříve smazány (více v [sekci o smazání dat](#právo-být-zapomenut))
 ### Práva uživatele
 - Klient má právo na přístup k údajům a jejich případné změně či opravě.
-- Klient má právo být zapomenut, tj. má právo na požádání o smazání osobních údajů (více v [sekci o smazání dat](#pravobytzapomenut))
+- Klient má právo být zapomenut, tj. má právo na požádání o smazání osobních údajů (více v [sekci o smazání dat](#právo-být-zapomenut))
 ### Právo být zapomenut
 Klient má právo požádat o smazání osobních údajů, v případě že klient požádá o smazání osobních údajů budou veškerá jeho data zaslány na jeho e-mailovou adresu, kterou po sléze spolu se zbytkem osobních údajů smažeme
