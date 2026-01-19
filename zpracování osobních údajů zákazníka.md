@@ -9,5 +9,5 @@
 ### Práva uživatele
 - Klient má právo na přístup k údajům a jejich případné změně či opravě.
 - Klient má právo být zapomenut, tj. má právo na požádání o smazání osobních údajů (více v [sekci o smazání dat](#pravobytzapomenut))
-### Právo být zapomenut {#pravobytzapomenut}
-Klient má právo požádat o smazání osobních údajů, v případě že klient požádá o smazání osobních údajů budou veškerá jeho data zaslány na jeho e-mailovou adresu, kterou po sléze spolu se zbytkem osobních údajů smažeme _(Varování: e-mailová korespondence mezi stranou klienta a Betreg není součástí Vašich osobních údajů, tím pádem není mazána, namísto je uložena v archivu)_
+### Právo být zapomenut
+Klient má právo požádat o smazání osobních údajů, v případě že klient požádá o smazání osobních údajů budou veškerá jeho data zaslány na jeho e-mailovou adresu, kterou po sléze spolu se zbytkem osobních údajů smažeme
